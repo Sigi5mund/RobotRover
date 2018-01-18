@@ -19,7 +19,6 @@ public class robotTest {
     Robot robot0;
     Robot robot1;
     Robot robot2;
-    Robot robot3;
 
 
     @Before
